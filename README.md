@@ -16,3 +16,4 @@ To connect to the server, use the following SSH command:
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+<img width="980" height="215" alt="image" src="https://github.com/user-attachments/assets/4e630658-d909-4437-9ca8-fee5d83113f1" />
